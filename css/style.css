@@ -1,0 +1,129 @@
+.profile {
+    width:100px; 
+    display: block;
+    margin-left:auto; 
+    margin-right:auto;
+}
+.title {
+    font-size: 20px;color: rgb(15, 11, 9);text-align: center;font-weight: 200;
+}
+
+.box {
+    width :600px;
+    height: 100px;
+    margin-left:auto; 
+    margin-right:auto;  
+    padding : 10px;
+    border : 1px solid dodgerblue;
+    text-align: center;
+    box-shadow : 5px 5px 5px  rgb(82, 71, 71);
+}
+
+.container {
+    width: 800px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.left-menu {
+    width:70%;
+    height:300px;
+    float:left;
+}
+.right-menu {
+    width:30%;
+    height : 300px;
+    float: left;
+}
+.profile {
+    width:100%;
+    height: 20%;
+}
+.paragraph {
+    width:100%;
+    height: 80%;
+    margin : 10px;
+    text-align : left;
+}
+.picturebox {
+    width : 100%;
+    
+}
+.picture {
+    width : 80%;
+    height : 80%;
+    margin: auto;
+    object-fit: cover;
+}
+.name_date {
+    width : 60px;
+    height : 100%;
+    text-align :left;
+    float : left;
+}
+
+.content {
+
+    word-break:break-all;
+    margin-top : 30px
+}
+.navbar li {
+    display:inline-block;
+    width : 60px;
+    text-align:center;
+    padding : 10px;
+}
+
+.main-background {
+    width : 100%;
+    height : 500px;
+    background-image: url(../lion.jpg);
+
+    background-size: 100%;
+    background-repeat : no-repeat;
+    padding : 1px;
+    
+}
+.main-title {
+    color : white;
+    font-size : 40px;
+    margin-top : 150px;
+    padding : 20px
+}
+
+.attract {
+    text-align: left;
+    color: white;
+    padding: 20px;
+}
+
+.form-background {
+    width : 500px;
+    height : 800px;
+    background:rgb(240, 170, 170);
+    margin-left:auto;
+    margin-right:auto;
+    padding : 5px;
+    
+}
+.form-background  h1,h3
+{
+    margin-left: 30px;
+}
+
+
+.form-header {
+    width :100%;
+    height :50px;
+    text-align :left;
+    background: yellow;
+}
+.form-email {
+    width : 100%;
+    height : 70px;
+    text-align : left;
+    background: lightcyan;
+}
+
+td {
+    border : 1px black;
+}
